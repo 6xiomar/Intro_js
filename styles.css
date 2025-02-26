@@ -1,0 +1,20 @@
+/*
+Estilo para el boton1
+*/
+#boton1{
+
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+/*
+Estilo para el boton1
+*/
+
+#text1{
+    width: 80px;
+    height: 20px;
+}
